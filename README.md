@@ -48,11 +48,11 @@ Classes and Objects***
 ***Linked Lists***
 - Implementation
 
-***Linked Queue***
+    ***Linked Queue***
 
-***general Linked List***
+    ***general Linked List***
 
-***Doubly Linked List***
+    ***Doubly Linked List***
 - Applications
 
 ***Introduction to Complexity Analysis***
